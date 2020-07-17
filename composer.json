@@ -1,13 +1,13 @@
 {
-    "name": "longman/telegram-bot",
+    "name": "pochepochka/telegram-bot",
     "type": "library",
     "description": "PHP Telegram bot",
     "keywords": ["telegram", "bot", "api"],
     "license": "MIT",
-    "homepage": "https://github.com/php-telegram-bot/core",
+    "homepage": "https://github.com/pochepochka/core",
     "support": {
-        "issues": "https://github.com/php-telegram-bot/core/issues",
-        "source": "https://github.com/php-telegram-bot/core"
+        "issues": "https://github.com/pochepochka/core/issues",
+        "source": "https://github.com/pochepochka/core"
     },
     "authors": [
         {
@@ -18,7 +18,7 @@
         },
         {
             "name": "PHP Telegram Bot Team",
-            "homepage": "https://github.com/php-telegram-bot/core/graphs/contributors",
+            "homepage": "https://github.com/pochepochka/core/graphs/contributors",
             "role": "Developer"
         }
     ],
